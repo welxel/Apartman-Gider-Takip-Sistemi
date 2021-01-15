@@ -23,7 +23,7 @@ namespace ETSWebApp.DataAccess
 
         public List<OdemeModel> GetList()
         {
-            int toplam;
+        
             int counter = 0;
             string line;
             List<OdemeModel> odemeModels = new List<OdemeModel>();
